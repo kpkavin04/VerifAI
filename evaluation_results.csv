@@ -1,0 +1,4 @@
+id,grounded,faithful,refusal_correct,confidence,latency,answered
+EASY_01,False,True,True,0.815,8.759,True
+EDGE_01,True,True,True,0.0,2.277,False
+TRICK_01,False,True,False,0.0,4.252,False

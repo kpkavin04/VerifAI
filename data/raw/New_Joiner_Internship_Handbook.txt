@@ -1,0 +1,45 @@
+﻿Company Internship Programme Handbook
+1. Introduction
+Welcome to the Company Internship Programme. We are committed to providing a meaningful learning experience that bridges the gap between academic theory and professional practice. This handbook outlines the general terms, expectations, and policies applicable to all interns.
+This document serves as a guide for your professional conduct and administrative requirements. It should be read in conjunction with your Offer Letter and the General Employee Code of Conduct.
+2. Internship Duration & Status
+* Fixed-Term Nature: The internship is a fixed-term engagement as specified in your offer letter.
+* Employment Status: Interns are engaged for educational and training purposes. Participation in this programme does not guarantee, nor imply, a contract for permanent employment upon completion.
+* Extensions: Any request for an extension must be submitted in writing by the supervisor and approved by HR at least two weeks before the original end date.
+3. Working Hours & Attendance
+* Standard Hours: Our core business hours are [e.g., 9:00 AM to 6:00 PM], Monday through Friday.
+* Punctuality: Interns are expected to be punctual. If you are unable to report for work due to illness or an emergency, you must notify your supervisor by [e.g., 9:30 AM] on the day of absence.
+* Break Times: Interns are entitled to a [e.g., 1-hour] unpaid lunch break daily, to be taken in coordination with the team’s schedule.
+4. Reporting Structure & Mentorship
+To ensure a supported learning environment, each intern is assigned:
+* Direct Supervisor: Focuses on your technical tasks, project guidance, and performance evaluations.
+* Buddy/Peer Mentor (Optional): A non-managerial team member to help you navigate office culture and daily workflows.
+* HR Point-of-Contact: For matters regarding allowances, documentation, or workplace grievances.
+5. Financial Terms
+* Monthly Allowance: A fixed stipend is paid in arrears via bank transfer on the [e.g., last working day] of each month.
+* Taxes & Deductions: Allowances are subject to local statutory deductions (e.g., tax or social security) where applicable.
+* Expenses: Interns will be reimbursed for pre-approved, business-related expenses (e.g., travel for a client meeting) upon submission of valid receipts.
+6. Leave & Absence Policy
+* Annual Leave: Interns accrue [e.g., 1 day] of paid leave for every month of service completed.
+* Sick Leave: Please provide a medical certificate for absences exceeding [e.g., two consecutive days].
+* Exam/Study Leave: We support your education. Reasonable requests for unpaid leave to attend exams will be considered if requested 14 days in advance.
+7. Remote & Hybrid Work Guidelines
+* Connectivity: For remote work, interns are responsible for ensuring a stable internet connection and a professional environment for video calls.
+* Availability: While working remotely, you must remain reachable via [e.g., Slack/Teams/Email] during core hours.
+* Security: Avoid using public, unsecured Wi-Fi for company tasks.
+8. Confidentiality & Intellectual Property (IP)
+* Non-Disclosure: You may have access to sensitive data. You must not disclose proprietary information, client lists, or internal processes to third parties during or after your internship.
+* Ownership of Work: All work products, designs, code, or reports created during the internship are the sole "work-for-hire" property of the Company.
+9. Professional Conduct & Dress Code
+* Dress Code: Our office follows a [e.g., Business Casual / Casual] dress code. Please dress appropriately for client-facing meetings.
+* Communication: Maintain professional etiquette in all digital and verbal communications.
+* Use of Tech: Company hardware (laptops, monitors) must be used for business purposes only. The installation of unauthorized software is strictly prohibited.
+10. Termination & Off-boarding
+* Notice Period: Either party may terminate the internship with [e.g., 1 week’s] written notice.
+* Exit Interview: On your final day, you may be invited to an exit interview to provide feedback on your learning experience.
+* Return of Property: All company assets, ID badges, and login credentials must be returned/deactivated on your final day before the final allowance is cleared.
+________________
+
+
+Acknowledgment
+By proceeding with your onboarding, you acknowledge that you have read, understood, and agree to abide by the policies outlined in this Intern Handbook.

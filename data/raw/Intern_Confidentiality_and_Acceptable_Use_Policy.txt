@@ -1,0 +1,44 @@
+﻿Intern Confidentiality & Acceptable Use Policy
+1. Purpose
+The purpose of this policy is to establish clear guidelines regarding the protection of the Company’s proprietary interests and the responsible use of its information technology (IT) assets. This policy ensures that all interns understand their duty of care toward sensitive information and the standards of digital professional conduct required during their tenure.
+2. Definition of Confidential Information
+"Confidential Information" refers to any data or information that is proprietary to the Company and not generally known to the public. This includes, but is not limited to:
+* Business Intelligence: Strategic plans, marketing campaigns, financial forecasts, and pricing models.
+* Technical Assets: Source code, algorithms, database structures, product roadmaps, and security protocols.
+* Third-Party Data: Non-public information regarding clients, vendors, partners, or fellow employees.
+* Operational Materials: Internal training manuals, process maps, and organizational charts.
+Note: Information shall be treated as confidential regardless of whether it is marked as "Confidential" or whether it was disclosed orally, in writing, or through observation.
+3. Duty of Confidentiality & Data Handling
+Interns are entrusted with the Company’s intellectual capital and must adhere to the following:
+* Authorized Use Only: You may access and use Confidential Information solely to perform your assigned duties. Personal use or "curiosity-driven" browsing of restricted files is prohibited.
+* Secure Storage: Physical documents must be stored in locked drawers when not in use. Digital files must be saved only on approved company cloud drives (e.g., SharePoint, Google Drive) and never on personal devices or personal cloud accounts.
+* The "Clean Desk" Principle: Ensure that sensitive information is not left visible on screens or desks when stepping away from your workstation.
+4. Acceptable Use of Company Systems
+Company-provided hardware, software, and network access are professional tools. Interns are expected to maintain high standards of digital hygiene:
+* Credential Security: Under no circumstances should passwords or Multi-Factor Authentication (MFA) codes be shared.
+* Prohibited Content: Systems must not be used to access, store, or distribute material that is offensive, illegal, or discriminatory.
+* Software Integrity: Interns may not download or install third-party software, browser extensions, or "freeware" without explicit approval from the IT Department.
+* Monitoring: Interns should have no expectation of privacy when using Company systems. The Company reserves the right to monitor system activity to ensure compliance with security policies.
+5. External Communications & Social Media
+While we encourage you to share your learning journey, you must protect the Company’s brand and secrets:
+* Anonymity of Projects: When posting on platforms like LinkedIn, you may mention your role and general department, but you must not disclose specific client names, unreleased product features, or internal metrics.
+* Photography: Taking photos or videos inside the office (or of your remote screen) is prohibited if any internal documents, code, or colleague's faces are visible.
+* Media Inquiries: If contacted by a journalist or external researcher regarding the Company, interns must decline to comment and redirect the inquiry to the Communications/PR Department.
+6. Intellectual Property (IP) Rights
+All inventions, designs, code, reports, and improvements made by the intern during the internship period—whether created during standard work hours or using company resources—are the exclusive property of the Company.
+* Interns waive any "moral rights" to such work and agree to assist the Company in documenting ownership if requested.
+7. Post-Termination Obligations
+Your legal obligation to protect the Company’s secrets does not expire on your last day.
+* Return of Assets: Upon completion or termination of the internship, all physical and digital copies of Confidential Information must be returned or permanently deleted.
+* Permanent Non-Disclosure: The duty to keep secrets (such as trade secrets or client lists) remains in effect indefinitely, or until such information enters the public domain through no fault of the intern.
+8. Enforcement & Consequences
+Compliance with this policy is a condition of your internship. A breach of confidentiality or a violation of the Acceptable Use Policy may result in:
+1. Immediate termination of the internship.
+2. Disqualification from future employment opportunities with the Company.
+3. Reporting of the incident to your educational institution (if applicable).
+4. Legal action in cases of severe intellectual property theft or data breaches.
+________________
+
+
+Acknowledgment of Policy
+By signing the Internship Agreement, you affirm that you have read this policy and agree to be bound by its terms for the duration of your internship and thereafter.

@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "EASY_01",
+    "question": "What are my rights regarding personal projects?",
+    "expected_sources": ["Intern_Inventions_and_IP_Policy"],
+    "acceptable_refusal": false
+  },
+  {
+    "id": "EDGE_01",
+    "question": "What medical benefits do interns receive?",
+    "expected_sources": [],
+    "acceptable_refusal": true
+  },
+  {
+    "id": "TRICK_01",
+    "question": "Can I reuse company code for my own startup?",
+    "expected_sources": ["Intern_Confidentiality_and_Acceptable_Use_Policy"],
+    "acceptable_refusal": false
+  }
+]

@@ -1,0 +1,47 @@
+﻿Intern Data Privacy & Personal Data Notice
+1. Introduction
+The Company is committed to protecting the privacy and security of your personal data. This notice describes how we collect, use, and safeguard your personal information during and after your internship. We act as a "Data Controller" for the information we process as part of your engagement with us.
+2. Categories of Personal Data Collected
+In the course of your internship, we may collect and process various types of personal information, including:
+* Identification Data: Your full name, home address, personal email, telephone number, date of birth, and government-issued identification (e.g., Passport, NRIC, or SSN).
+* Recruitment Data: Your CV/resume, academic transcripts, references, and interview notes.
+* Financial Data: Bank account details for allowance transfers and any relevant tax identification numbers.
+* Digital Footprint: System access logs, IP addresses, and metadata generated from your use of company laptops, email, and internal communication tools (e.g., Slack, Teams).
+* Performance Data: Feedback from supervisors, project evaluations, and attendance records.
+* Visual Data: Photographs for ID badges or company directories and footage captured via CCTV in office common areas for security purposes.
+3. Purpose and Legal Basis for Processing
+We process your data for specific, legitimate business purposes, including:
+* Onboarding & Administration: Facilitating your entry into the company and managing monthly allowance payments.
+* Operational Security: Monitoring access to our physical premises and digital networks to prevent unauthorized data breaches.
+* Performance Management: Evaluating your progress to provide constructive feedback and completion certificates.
+* Legal Compliance: Meeting our obligations regarding labor laws, tax reporting, and immigration status verification.
+* Emergency Response: Maintaining "next-of-kin" contact details to ensure your safety in the event of a workplace emergency.
+4. Use and Disclosure of Information
+Your data is handled with strict confidentiality. It may be shared under the following circumstances:
+* Internal Access: Only authorized personnel in HR, Finance, IT, and your direct management line will have access to your files on a "need-to-know" basis.
+* Service Providers: We may share data with third-party vendors who provide essential services, such as payroll processing, IT hosting, or insurance providers.
+* Legal Requirements: We may disclose information to government authorities or law enforcement if required by a court order or applicable law.
+* Global Transfers: If your internship involves a global team, your data may be transferred to company offices in other regions, provided that adequate data protection safeguards are in place.
+5. Data Retention Period
+We do not keep your personal data longer than is necessary.
+* Active Interns: Data is kept for the duration of your internship.
+* Post-Internship: Following completion, we retain a limited subset of your data (e.g., name, dates of internship, and final evaluation) for a period of [e.g., 5–7 years] to respond to future employment verification requests or to comply with statutory audit requirements.
+* Digital Logs: System logs are typically purged or anonymized after [e.g., 12 months] unless required for an ongoing investigation.
+6. Security Measures
+We implement robust technical and organizational measures to secure your data:
+* Encryption: Personal data stored digitally is encrypted at rest and during transmission.
+* Access Controls: Multi-factor authentication (MFA) and role-based access limits ensure that only the right people see your data.
+* Physical Security: Hard-copy files are stored in secured, restricted-access cabinets within the HR department.
+7. Your Privacy Rights
+Depending on your jurisdiction, you have specific rights regarding your personal data:
+* Right of Access: You may request a copy of the personal data we hold about you.
+* Right to Rectification: You may ask us to correct any inaccurate or incomplete information.
+* Right to Erasure: In certain circumstances, you may request the deletion of your data (e.g., if it is no longer necessary for the purpose it was collected).
+* Right to Object: You may object to the processing of your data for specific purposes, such as internal marketing or optional surveys.
+8. Contact Information
+If you have any questions about this notice or how we handle your data, please contact our Data Protection Officer (DPO) or the HR Department at:
+Email: [Insert Email Address]
+Office: [Insert Physical Address/Department]
+________________
+
+Acknowledgment By accepting your internship offer and accessing company systems, you acknowledge that you have been informed of our data processing practices as outlined in this notice.

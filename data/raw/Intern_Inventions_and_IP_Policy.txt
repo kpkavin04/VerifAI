@@ -1,0 +1,42 @@
+﻿Intern Intellectual Property (IP) & Inventions Policy
+1. Purpose
+The Company values innovation and the creative contributions of our interns. This policy serves to define the ownership of intellectual property created during the internship and to provide a clear framework for the disclosure and management of "Inventions." The goal is to ensure that all parties understand their rights and obligations regarding work-related creative output.
+2. Comprehensive Definition of "Inventions"
+For the purposes of this policy, "Inventions" are defined broadly to include any and all original works of authorship, discoveries, or developments. This includes, but is not limited to:
+* Software & Logic: Source code, object code, algorithms, database schemas, and API designs.
+* Creative Assets: Graphic designs, user interface (UI) layouts, branding concepts, and marketing copy.
+* Technical Documentation: Research papers, white papers, internal reports, process workflows, and manuals.
+* Mechanical & Physical: Prototypes, hardware designs, chemical formulas, or engineering improvements.
+* Methods: Novel business processes, problem-solving techniques, or project management frameworks.
+3. Scope of Company Ownership
+The Company shall be the sole and exclusive owner of all "Work-Related Inventions." An invention is deemed work-related if it meets any of the following criteria:
+* During Working Hours: Created during the intern’s scheduled hours of service.
+* Using Resources: Developed using Company equipment, software licenses, internal data, or facilities.
+* Project-Specific: Created as a direct result of tasks assigned by a supervisor or as part of a team project.
+* Relatedness: Pertains directly to the Company’s current or anticipated business, research, or development.
+4. Assignment of Rights
+By participating in the Internship Programme, the intern agrees to the following:
+* Full Assignment: The intern hereby irrevocably assigns to the Company all worldwide rights, titles, and interests in any Work-Related Inventions, including copyrights, patent rights, and trade secret rights.
+* Work for Hire: To the extent permitted by law, all works of authorship created within the scope of the internship shall be considered "Works Made for Hire."
+* Moral Rights: The intern waives any "moral rights" (such as the right to be named as the author) that might otherwise interfere with the Company’s ability to modify or use the work.
+5. Personal Projects & Prior Inventions
+The Company respects the personal creativity of its interns. Projects are considered personal property only if:
+* They were created entirely on the intern’s own time.
+* No Company resources (including laptops or proprietary data) were utilized.
+* The project does not compete with the Company’s business interests.
+* Prior Inventions: If an intern owns an existing invention created before the internship, they must disclose it in writing at the start of the programme to ensure it is excluded from this policy.
+6. Disclosure & Cooperation
+Interns have an affirmative duty to assist the Company in protecting its IP:
+* Prompt Disclosure: Interns must immediately notify their supervisor of any invention or discovery made during their internship.
+* Documentation: Interns may be required to sign specific documents (e.g., patent applications or assignment forms) to help the Company formalize its ownership. This obligation remains in effect even after the internship ends.
+* Record Keeping: Interns are encouraged to maintain organized notes and logs of their work process to assist in the IP protection process.
+7. Post-Internship Restrictions
+Upon completion of the internship:
+* No Retention: Interns may not take copies of code, designs, or internal reports for personal use or for their portfolio without explicit, written permission from HR and their Department Head.
+* Ongoing Protection: The intern may not use Company-owned inventions to benefit a future employer or personal venture.
+* Portfolio Use: If an intern wishes to showcase work done during the internship in a professional portfolio, they must submit the request for review. The Company may require certain details to be redacted or blurred to protect trade secrets.
+________________
+
+
+Acknowledgment of IP Terms
+By engaging in the internship, you certify that you understand that all work produced is the property of the Company and that you will cooperate fully in the protection of these intellectual assets.
