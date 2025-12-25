@@ -1,3 +1,5 @@
+(refer to the VerifAI.pdf for the full documentation of this project)
+
 # VerifAI
 
 A refusal-aware RAG system for proprietary documents that prioritizes grounding, confidence estimation, and observability over answer rate
