@@ -24,32 +24,35 @@ This system ingests policy documents that have been generated with use of Gemini
 These documents form the source text used for retrieval.
 
 ## Repository Structure
-
-- prodguard/
-  - app/
-    - main.py # FastAPI entrypoint
-    - api/
-      - query.py
-    - guardrails/ # Confidence & refusal logic
-      - confidency.py
-      - refusal.py
-    - logging/
-      - structured_logger.py
-    - models/
-      - generator.py
-    - retreival/
-      - retriever.py
-  - chroma_db
-  - dashboard/
-    - dashboard.py
-  - data/
-    - chunks/ # Chunked Docs in json
-    - evaluation/ # input json file for evaluation script
-    - raw/ # Raw policy docs
-    - processed/ # Cleaned docs
-  - scripts/ # Data processing scripts
-  - README.md
-  - requirements.txt
+```
+.
+├──app/
+│  ├── api/
+│  │   └── query.py
+│  ├── guardrails/ # Confidence & refusal logic
+│  │   ├── confidency.py
+│  │   └── refusal.py
+│  ├── logging/
+│  │   └── structured_logger.py
+│  ├── models/
+│  │   └── generator.py
+│  ├── retreival/
+│  │   └── retriever.py
+│  └──  main.py # FastAPI entrypoint
+├── chroma_db
+├── dashboard/
+│    └── dashboard.py
+├── data/
+│   ├── chunks/ # Chunked Docs in json
+│   ├── evaluation/ # input json file for evaluation script
+│   ├── raw/ # Raw policy docs
+│   └── processed/ # Cleaned docs
+├── logs/
+├── scripts/ # Data processing scripts
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
 ## Running the Application
 
